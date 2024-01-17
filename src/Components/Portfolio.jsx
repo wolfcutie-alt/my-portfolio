@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Photo Studio Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Collaboration to create a beginner friendly website for studio.",
+    url: "https://wolfcutie-alt.github.io/Photo_Studio_Website",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Grocery Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Collaboration to create a beginner friendly website for grocery store.",
+    url: "https://wolfcutie-alt.github.io/Grocery_Project",
   },
   {
-    title: "My Resume Site",
+    title: "Blling Application",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Collaboration to create a beginner friendly billing application for store.",
+    url: "https://github.com/wolfcutie-alt/Billing-Project",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Sushi Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Collaboration to create a beginner friendly website for sushi restaurant.",
+    url: "https://wolfcutie-alt.github.io/Sushi_web/",
   },
 ];
 
